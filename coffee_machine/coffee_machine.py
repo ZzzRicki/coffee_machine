@@ -4,6 +4,7 @@ class CupSize:
     LARGE = 7
 
 #Clases de excepciones
+#Clases de tamaño de copas
 class NoCupsException(Exception):
     pass
 
