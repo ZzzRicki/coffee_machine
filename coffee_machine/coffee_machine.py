@@ -3,6 +3,7 @@ class CupSize:
     MEDIUM = 5
     LARGE = 7
 
+#Clases de excepciones
 class NoCupsException(Exception):
     pass
 
